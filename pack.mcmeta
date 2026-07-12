@@ -1,0 +1,28 @@
+{
+	"pack": {
+		"pack_format": 34,
+		"supported_formats": {
+			"min_inclusive": 34,
+			"max_inclusive": 64
+		},
+		"min_format": [34, 0],
+		"max_format": [89, 0],
+		"description": "§7香香軟軟！ §d可愛來襲喵！ \n§8By §b冷月"
+    },
+	"overlays": {
+		"entries": [
+			{
+				"directory": "1.21.6",
+				"formats": [63, 999],
+				"min_format": 63,
+				"max_format": 999
+			},
+			{
+				"directory": "26.1",
+				"formats": [76, 999],
+				"min_format": 76,
+				"max_format": 999
+			}
+		]
+	}
+}
