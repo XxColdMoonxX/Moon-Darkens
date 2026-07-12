@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="blocks" src="https://github.com/user-attachments/assets/f983e5b3-a436-4166-90ec-7625e43cf2ee" />
+
+
 # 月色漸濃 - 輕量材質包 | Moon Darkens - Light weight texture pack
 ### 可愛有趣的萌系原味材質包！1.21或以上版本適配！
 ### Cute and fun vanilla-like pack for 1.21 and later versions!
