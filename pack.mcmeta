@@ -22,6 +22,18 @@
 				"formats": [76, 999],
 				"min_format": 76,
 				"max_format": 999
+			},
+			{
+				"directory": "26.2",
+				"formats": [85, 999],
+				"min_format": 85,
+				"max_format": 999
+			},
+			{
+				"directory": "26.3",
+				"formats": [89, 999],
+				"min_format": 89,
+				"max_format": 999
 			}
 		]
 	}
