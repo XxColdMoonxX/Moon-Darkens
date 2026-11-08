@@ -20,6 +20,7 @@
 - 水元素史萊姆 Hydro Slime
 ### 3. 物品類 Items
 - 力量弓以及對應拉弓動畫 Power Bow and its corresponding animation
+- 火弩箭以及對應拉弩動畫 Firebolt Thrower and its corresponding animation
 - 原石地獄之星 Primogem Nether Star
 - 水元素史萊姆球 Hydro Slime Ball
 - 異色箭矢 Special Arrow
